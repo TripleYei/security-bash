@@ -26,6 +26,8 @@ HTTP/1.1
 
 Uso de la herramienta nmap en bash, para obtener información del sistema operativo.
 
+## Uso
+
 ~~~~
 sh nmap.sh
 
