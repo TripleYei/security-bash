@@ -1,5 +1,7 @@
 # security-bash
-Herramientas automatizadas en Bash
+Herramientas automatizadas en Bash.
+
+NOTA : Usar una distribución que ya tenga las herramientas nmap, netcat etc.
 
 
 ## Netcat.sh
